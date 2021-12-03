@@ -1,0 +1,19 @@
+{
+  "name": "learningnode",
+  "version": "1.0.0",
+  "description": "Repositorio para exercitar os conceitos de programacao usando javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kleber-s17/learningNode.git"
+  },
+  "author": "Kleber Sanzony",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kleber-s17/learningNode/issues"
+  },
+  "homepage": "https://github.com/kleber-s17/learningNode#readme"
+}
